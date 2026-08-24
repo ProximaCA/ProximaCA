@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Full-stack engineer with a T-shaped profile and over 3 years of experience in software development: from websites, server architectures, automation, AI agents, and Web3-based applications. I am capable of managing projects from initial concept to MVP with well-thought-out architecture, clean code, security, and usability. I pay special attention to AI agents, scalable server logic, and automation. I work in accelerated development mode (vibe coding): from idea to working prototype in the shortest possible time, with subsequent refinement to production quality.
+Full-stack engineer with a T-shaped profile and over 5 years of experience in software development: from websites, server architectures, automation, AI agents, and Web3-based applications. I am capable of managing projects from initial concept to MVP with well-thought-out architecture, clean code, security, and usability. I pay special attention to AI agents, scalable server logic, and automation. I work in accelerated development mode (vibe coding): from idea to working prototype in the shortest possible time, with subsequent refinement to production quality.
 
 
 
