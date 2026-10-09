@@ -6,6 +6,10 @@
 </picture>
 </p>
 
+<p align="center">
+  <a href="https://ascii.rest/earthrise/"><img alt="earthrise ASCII art" src="https://ascii.rest/og/earthrise.png" width="100%"></a>
+</p>
+
 <img alt="lucipurre@EARTH:~$ whoami" src="assets/whoami.svg" width="100%">
 
 <p align="center">
